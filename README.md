@@ -16,6 +16,8 @@ MQRNN结构初始化以及模型训练完毕后的预测部分
 定义projectnet结构
 
 ## 以下文件在过往版本的代码中提供了支持，当前版本未使用
+### Encoder.py
+旧版本（未整合GNN）Encoder结构
 ### GNN_func.py 
 旧版本GNN结构
 ### NEW_GNN0329_data.py NEW_GNN0421_data.py
